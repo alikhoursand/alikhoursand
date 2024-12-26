@@ -19,7 +19,7 @@
 <h2 align="center">My Skills and Tech Stack</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,nuxt,js,jquery,html,css,bootstrap,vuetify">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,nuxt,js,jquery,html,css,bootstrap,vuetify,tailwind">
 </div>
 
 <br><br><br>
